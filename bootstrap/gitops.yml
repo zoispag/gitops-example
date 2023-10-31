@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/zoispag/gitops-example.git'
+    repoURL: 'https://github.com/zoispag/gitops-team-be.git'
     targetRevision: HEAD
     path: apps
   destination:
